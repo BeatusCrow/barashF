@@ -1,6 +1,6 @@
 ### Hi there 👋
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barashF&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barashF&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barashF&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barashF&theme=solarized_dark)
 
 <!--
 **barashF/barashF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
