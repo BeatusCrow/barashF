@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div id="header" align="center">
-  <img src="https://cs6.pikabu.ru/post_img/2017/09/06/5/150468387315339999.gif" width="400"/>
-</div>
+
 <!--
 **barashF/barashF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
