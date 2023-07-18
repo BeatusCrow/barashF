@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://anime-chan.me/uploads/posts/2014-12/1419189881_igogo-svinka.gif" width="100"/>
+</div>
 <!--
 **barashF/barashF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
