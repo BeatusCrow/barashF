@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.gifer.com/fetch/w300-preview/dc/dcbe625c0747b5ed8bf27868dc3ef7a1.gif)" width="400"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"/>
 </div>
 <!--
 **barashF/barashF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
